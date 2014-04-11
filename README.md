@@ -21,6 +21,8 @@ NSError *error = [NSError errorWithDomain:@"com.urbna.demo" code:202 userInfo:
 [UAErrorManager showAlertViewForError:error];
 ```
 
+You can edit the ErrorMessages.plist file in order to replace the title/message of specific errors.
+
 #To Do#
 - Add an option to only display errors with specific codes once
 - Add an option to reset the display once limitation
