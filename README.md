@@ -27,3 +27,4 @@ You can edit the ErrorMessages.plist file in order to replace the title/message 
 - Add an option to only display errors with specific codes once
 - Add an option to reset the display once limitation
 - Add an option to only display errors with specific codes dependant on whether the network is available.
+- Create a Podspec
